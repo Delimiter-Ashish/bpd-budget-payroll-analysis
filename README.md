@@ -79,23 +79,38 @@ Additional analysis includes SHAP explainability and KMeans clustering of office
 
 ---
 
-## Running the Project
-
-### Install dependencies
-```bash
+Running the Project
+Install dependencies
 pip install numpy pandas scikit-learn matplotlib xgboost flask flask_cors
 
-## Tech Stack  
-- **Python** (data preprocessing, ML models)  
-- **Google Colab** (development environment, notebooks)
-- **Visual Studio Code** (development environment)
-- **Flask**
-- **Javascript** 
-- **HTML/CSS Boostrap**
-  
-# About us:
-- Kaushik Joshi
-- Ashish Joshi
-- Siddhanth Kalyanaraman
-- Vidney Jadhav
-- Adithya Nayak
+Run notebooks
+
+Open and run the .ipynb files in Google Colab or Jupyter.
+
+Run dashboard
+python app2.py
+
+Tech Stack
+
+Python
+
+Pandas, NumPy, Scikit-learn, XGBoost
+
+Matplotlib
+
+Flask
+
+HTML/CSS, JavaScript, Bootstrap
+
+Google Colab, VS Code
+
+Attribution
+
+This project was originally completed as part of a group course project.
+I was responsible for the data preprocessing, analysis, modeling, visualization, and system integration.
+Other team members contributed to documentation and reporting.
+
+Author
+
+Ashish Joshi
+MS in Artificial Intelligence, Boston University
