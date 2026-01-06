@@ -112,7 +112,7 @@ python app2.py
 
 ## Attribution
 
-This project was originally completed as part of a group course project. (CAS CS 506)
+This project was originally completed as part of a group course project (CAS CS 506).
 I was responsible for the data preprocessing, analysis, modeling, visualization, and system integration.
 
 ---
@@ -120,4 +120,5 @@ I was responsible for the data preprocessing, analysis, modeling, visualization,
 ## Author
 
 **Ashish Joshi**
+
 MS in Artificial Intelligence, Boston University
