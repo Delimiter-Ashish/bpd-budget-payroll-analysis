@@ -124,4 +124,19 @@ python app2.py
 * MS in Artificial Intelligence
 * Boston University
 
+---
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### ML Model Page
+
+![ML Model](screenshots/ml_model.png)
 
