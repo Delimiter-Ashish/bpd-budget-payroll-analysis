@@ -113,8 +113,8 @@ python app2.py
 ## Attribution
 
 * Originally completed as part of **CAS CS 506 — Data Science Tools and Applications** (group course project)
-* I was responsible for the system design, full‑stack development (Flask + frontend), model training and evaluation, visualization, and integration
-* Other group members contributed to initial statistical exploration, data cleaning, and parts of baseline modeling
+* I was responsible for the system design, full‑stack development (Flask + frontend), model training and evaluation, visualization.
+* Other group members contributed to statistical exploration, data cleaning, and parts of baseline modeling, integration, and documentation and reporting.
 
 ---
 
